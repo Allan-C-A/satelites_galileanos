@@ -15,3 +15,6 @@ En orden descendente, son *Ío*, *Europa*, *Ganimedes* y *Calisto*.
 
 
 Este es texto adicional al de los satelites galileanos
+
+Esta es una imagen normal
+![Perro](perro.jfif)
